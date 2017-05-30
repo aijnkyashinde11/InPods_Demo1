@@ -4,5 +4,6 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
     <p>Use this area to provide additional information.</p>
-    <p>My changes.</p>
+    <p>My changes1.</p>
+    <p>My changes2.</p>
 </asp:Content>
