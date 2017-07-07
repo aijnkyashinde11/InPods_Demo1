@@ -4,9 +4,6 @@ files:
   - source: /
     destination: C:\inetpub\wwwroot
 hooks:
-   BeforeInstall:
-     - location: CodeDeploy/appstop.bat       
-       runas: administrator
-   ApplicationStart:
-     - location: CodeDeploy/appstart.bat       
-       runas: administrator
+  BeforeInstall:
+    - location: \before-install.bat
+      timeout: 900
