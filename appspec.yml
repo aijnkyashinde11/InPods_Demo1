@@ -6,5 +6,5 @@ files:
 hooks:
   BeforeInstall:
     - location: \learn.bat
-      runas: administrator
+      runas: Administrator
       timeout: 900
