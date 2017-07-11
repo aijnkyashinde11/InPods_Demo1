@@ -7,4 +7,4 @@ hooks:
   BeforeInstall:
     - location: \learn.bat
       runas: Administrator
-      timeout: 100
+      timeout: 50
