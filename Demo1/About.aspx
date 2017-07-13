@@ -6,9 +6,7 @@
     <p>Use this area to provide additional information.</p>
     <p>Customized Content</p>    
       <h1>Customized Content - Vivek sir Demo</h1>    
-    <h1>Customized Content - Ajay sir Demo</h1>    
-    <h1>Customized Content - Mayur sir Demo</h1>    
-    <h3>Customized Content - Mayur sir Demo</h3>    
+    <h3> LEARN Activity</h3>    
 
 </asp:Content>
 
