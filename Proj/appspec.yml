@@ -11,4 +11,4 @@ hooks:
   AfterInstall:
     - location: \learn2.bat
       runas: Administrator
-      timeout: 400
+      timeout: 500
