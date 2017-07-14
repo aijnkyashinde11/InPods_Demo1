@@ -1,0 +1,14 @@
+version: 0.0
+os: windows
+files:
+  - source: /
+    destination: C:\inetpub\wwwroot
+hooks:
+  BeforeInstall:
+    - location: \learn1.bat
+      runas: Administrator
+      timeout: 400
+  AfterInstall:
+    - location: \learn2.bat
+      runas: Administrator
+      timeout: 300

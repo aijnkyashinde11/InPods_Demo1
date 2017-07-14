@@ -6,11 +6,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Program Files (x86)\Jenkins\workspace\Vivek_Demo\Orcas</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Program Files (x86)\Jenkins\workspace\Vivek_Demo\Proj\Orcas</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="About.aspx">
-      <publishTime>07/13/2017 18:46:23</publishTime>
+      <publishTime>07/14/2017 11:26:21</publishTime>
     </File>
     <File Include="Account/AddPhoneNumber.aspx">
       <publishTime>07/11/2017 04:43:05</publishTime>
